@@ -1,7 +1,7 @@
 # isro_quiz
 
 A new Flutter project.
-This is a Quiz application on ISRO.It also consits of learning section on ISRO like its spacecrafts,launchers and locations,etc. 
+This is a Quiz application on ISRO.It also consists of learning section on ISRO like its spacecrafts,launchers and locations,etc. 
 
 ## Getting Started
 
