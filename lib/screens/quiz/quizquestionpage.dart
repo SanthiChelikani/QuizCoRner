@@ -43,7 +43,7 @@ class _quizquestionpageState extends State<quizquestionpage> {
             },
           )
         ],
-        title: Text('Over!',style: TextStyle(color: Colors.red,fontSize: 40),),
+        title: Text('Quiz Zone!',style: TextStyle(color: Colors.red,fontSize: 40),),
         centerTitle: true,
         toolbarHeight: 100,
         backgroundColor: Colors.white,
