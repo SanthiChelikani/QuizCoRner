@@ -52,7 +52,7 @@ class Centers extends StatelessWidget {
                     SizedBox(height: 10),
 
                     Text(
-                      "Country: "
+                      "Name: "
                           "${data.center_list.value[index].name}",
                       style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),
                     ),
@@ -60,13 +60,13 @@ class Centers extends StatelessWidget {
 
                     SizedBox(height: 10),
                     Text(
-                      "Launch date: "
+                      "Place: "
                           "${data.center_list.value[index].Place}",
                       style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),
                     ),
 
                     Text(
-                      "Mass: "
+                      "State: "
                           "${data.center_list.value[index].State}",
                       style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),
                     ),
